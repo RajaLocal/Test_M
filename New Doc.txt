@@ -1,7 +1,5 @@
 New Change not sure whether it is there in git yet.
 Changes done on Git web.
-<<<<<<< Updated upstream
 Changing in GIT at same time as Local.
-=======
 Hello changing in local.
->>>>>>> Stashed changes
+
